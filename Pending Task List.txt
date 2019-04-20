@@ -1,0 +1,9 @@
+Pending Task List 
+====================================
+#1. Add new filed to order, registeredOrder page for [domestic or international]
+2#. Pagination is incomplete
+3#. Invoice is incomplete
+4#. Order View is incomplete [just like invoice template]
+5#. Sales report is incomplete
+6#. XL Export incomplete
+7#. User access type [show menu for super admin & general admin is incomplete] !important;
